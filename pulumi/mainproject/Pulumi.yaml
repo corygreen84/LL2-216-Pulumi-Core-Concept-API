@@ -1,0 +1,3 @@
+name: ll2-216-pulumi-core-concept-api
+description: A minimal AWS TypeScript Pulumi program
+runtime: nodejs
