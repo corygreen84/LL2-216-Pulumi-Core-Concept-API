@@ -10,6 +10,7 @@
         "@pulumi/aws-apigateway": "^1.0.0",
         "@pulumi/awsx": "^1.0.0",
         "@pulumi/policy": "^1.5.0",
-        "@pulumi/pulumi": "3.48.0"
+        "@pulumi/pulumi": "3.48.0",
+        "crypto": "^1.0.1"
     }
 }
